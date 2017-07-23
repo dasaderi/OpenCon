@@ -1,4 +1,4 @@
-## Daniela Saderi OpenCon 2017 Application
+## Daniela Saderi - OpenCon 2017 Application
 
 #### Who are you? Please provide a brief biography about yourself. This may include what you do for work, what you study, what projects you’re involved in, or what you are passionate about. Maximum 700 characters (~100 words).
 I am a Ph.D. Candidate in Neuroscience at Oregon Health and Science University. In addition to working full time on my dissertation 
