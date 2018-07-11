@@ -1,6 +1,6 @@
 # OpenCon
 
-This repository hosts my applications to [OpenCon2016](www.opencon2016.org) and [OpenCon2017](http://www.opencon2017.org/).
+This repository hosts my applications to [OpenCon2016](www.opencon2016.org), [OpenCon2017](http://www.opencon2017.org/), and [OpenCon2018](https://www.opencon2018.org/).
 
 I was very lucky to attend OpenCon 2016 (thank you OHSU Library for sponsoring my attendance!) and I hope to attend again this year. OpenCon is a diverse and vibrant community of change catalyzers that I am honored to be part of. If you have not applied yet, DO IT NOW [here]( https://apply.opencon2017.org/referral/SuQBr)! Applications are due on August 1st, 2017.
 
